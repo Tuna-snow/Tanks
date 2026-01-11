@@ -90,7 +90,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1260202677413867528, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_StartingHealth
-      value: 270
+      value: 320
       objectReference: {fileID: 0}
     - target: {fileID: 1899037247648954685, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_Speed

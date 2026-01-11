@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 194311448074150599, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.96
+      value: 2.16
       objectReference: {fileID: 0}
     - target: {fileID: 194311448074150599, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_LocalPosition.z
@@ -66,11 +66,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1260202677413867528, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_StartingHealth
-      value: 270
+      value: 290
       objectReference: {fileID: 0}
     - target: {fileID: 1899037247648954685, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_Speed
-      value: 10
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 1899037247648954685, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_TurnSpeed
@@ -150,7 +150,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5551655925641515205, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_ShotCooldown
-      value: 1.1
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5551655925641515205, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_MaxChargeTime
@@ -162,11 +162,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5551655925641515205, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_MaxLaunchForce
-      value: 25
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 5551655925641515205, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_MinLaunchForce
-      value: 9
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5551655925641515205, guid: 53af66be75cd9e0448428109d6d5d006, type: 3}
       propertyPath: m_ExplosionRadius

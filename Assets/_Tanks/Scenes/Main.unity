@@ -215,6 +215,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MobileControlCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 2017024894599695999, guid: b8f111eb792c24410a6becacd4763b6f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6094074024010093126, guid: b8f111eb792c24410a6becacd4763b6f, type: 3}
       propertyPath: AutoDisableOnNonMobilePlatform
       value: 1
